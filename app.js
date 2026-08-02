@@ -1,4 +1,9 @@
 window.addEventListener('DOMContentLoaded', () => {
+  const stylesheet = document.createElement('link');
+  stylesheet.rel = 'stylesheet';
+  stylesheet.href = 'assets/v2/review-fixes.css';
+  document.head.appendChild(stylesheet);
+
   const button = document.getElementById('menu');
   const mobile = document.getElementById('mobile');
 
