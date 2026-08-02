@@ -1,0 +1,1 @@
+window.SOHO_ASSETS=window.SOHO_ASSETS||{};window.SOHO_ASSETS.signage=window.SOHO_ASSETS.stationery;
