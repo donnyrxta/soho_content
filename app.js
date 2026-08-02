@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', () => {
   window.SOHO_ASSETS = window.SOHO_ASSETS || {};
-  window.SOHO_ASSETS.hero = 'https://raw.githubusercontent.com/donnyrxta/pixel-prophet-92/preview/homepage-premium-assets-live/public/images/home/soho-cartoon-hero.webp';
+  window.SOHO_ASSETS.hero = 'https://raw.githubusercontent.com/donnyrxta/pixel-prophet-92/7905a108d97a52dce3017c243dde4ee05fea7a83/public/images/home/soho-cartoon-hero.webp';
 
   const heroStyles = document.createElement('style');
   heroStyles.textContent = `
