@@ -1,0 +1,20 @@
+{
+  "version": "2026-08-02-v2",
+  "purpose": "Self-contained premium homepage review artwork",
+  "assets": {
+    "hero": "hero-campaign.svg",
+    "print": "print-business-materials.svg",
+    "brandIdentity": "brand-identity-design.svg",
+    "vehicleBranding": "vehicle-branding.svg",
+    "brandedApparel": "branded-apparel.svg",
+    "digitalGrowth": "web-digital-growth.svg",
+    "interiorSignage": "signage-interiors.svg",
+    "siteSystems": "wifi-cctv-site-systems.svg"
+  },
+  "invariants": [
+    "No data URI chunks",
+    "No private-repository image request from the static mirror",
+    "Every visual card has a deterministic source",
+    "Illustrative concepts are not presented as completed client evidence"
+  ]
+}
