@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "createdAt": "2026-08-09",
+  "purpose": "Soho Connect corporate homepage preview",
+  "truthClass": "illustrative_service_visual",
+  "clientEvidence": false,
+  "generation": {
+    "mode": "built-in image_gen",
+    "policy": "No client names, logos, trademarks, metrics, testimonials or certifications"
+  },
+  "assets": [
+    {
+      "id": "hero-brand-rollout",
+      "use": "Homepage hero",
+      "summary": "Zimbabwean business owner and production specialist reviewing a coordinated physical brand rollout at a Harare light-industrial premises",
+      "intrinsicAspectRatio": "16:9",
+      "variants": [
+        "hero-brand-rollout-800.avif",
+        "hero-brand-rollout-1600.avif",
+        "hero-brand-rollout-800.webp",
+        "hero-brand-rollout-1600.webp"
+      ]
+    },
+    {
+      "id": "print-brand",
+      "use": "Print & Brand service",
+      "summary": "Zimbabwean print specialists reviewing a coordinated identity proof in a working print studio",
+      "intrinsicAspectRatio": "4:3",
+      "variants": ["print-brand-640.avif", "print-brand-1280.avif", "print-brand-640.webp", "print-brand-1280.webp"]
+    },
+    {
+      "id": "signage-fleet",
+      "use": "Signage & Fleet service",
+      "summary": "Zimbabwean installer applying precision-cut abstract livery to a commercial vehicle",
+      "intrinsicAspectRatio": "4:3",
+      "variants": ["signage-fleet-640.avif", "signage-fleet-1280.avif", "signage-fleet-640.webp", "signage-fleet-1280.webp"]
+    },
+    {
+      "id": "digital-growth",
+      "use": "Digital Growth service",
+      "summary": "Zimbabwean owner and designer reviewing a responsive website without fabricated analytics",
+      "intrinsicAspectRatio": "4:3",
+      "variants": ["digital-growth-640.avif", "digital-growth-1280.avif", "digital-growth-640.webp", "digital-growth-1280.webp"]
+    },
+    {
+      "id": "business-systems",
+      "use": "Business Systems service",
+      "summary": "Zimbabwean technician commissioning practical Wi-Fi and CCTV hardware in a commercial venue",
+      "intrinsicAspectRatio": "4:3",
+      "variants": ["business-systems-640.avif", "business-systems-1280.avif", "business-systems-640.webp", "business-systems-1280.webp"]
+    }
+  ]
+}
